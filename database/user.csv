@@ -1,0 +1,12 @@
+id;nama;username;password;role;saldo
+1;Rifqi;Qiqi;123;Admin;10000
+2;Farhan;Arhan;456;User;7800000
+3;Imam;Amam;111;User;3400000
+4;Sultan;Ultan;222;Admin;2500000
+5;Vieri;Eri;888;User;2800000
+6;Noval;Valdi;798;Admin;4390000
+7;Ardhan;Nur;834;Admin;6330000
+8;Ibrahim;Ibra;647;User;4090000
+9;Fajar;Ajar;918;Admin;5980000
+10;Rafi;Api;210;User;6000000
+11;Wakwaw;WWW;111;User;0
